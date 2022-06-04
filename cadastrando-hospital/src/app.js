@@ -15,6 +15,15 @@ app.use(express.json()) //preciso chamar o json como uma função
 //configurando o cors
 app.use(cors())
 
+//importar as rotas criando uma constante
+const patientRoute = require("./routes/patientRoutes")
+
+//Usar o método use para acessar a rota
+app.use("/patients", patientRoute)
+
+
 //exportando o module app
 module.exports = app 
+
+//como fazer as portas funcionarem?
 

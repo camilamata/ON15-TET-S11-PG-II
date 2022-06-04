@@ -1,0 +1,31 @@
+[{
+    "Id": 1,
+    "name": "Marcos",
+    "Socialname": "",
+    "age": 30, 
+    "adress": "Rua aqui perto, 340",
+    "phone": "(11) 1111 1111",
+    "CPF": "111.111.111-11"
+
+},
+{
+    "Id": 2,
+    "name": "Luciana",
+    "Socialname": "",
+    "age": 30, 
+    "adress": "Rua la longe, 340",
+    "phone": "(12) 1111 1111",
+    "CPF": "121.111.111-11"
+
+},
+{
+    "Id": 3,
+    "name": "Leila",
+    "Socialname": "",
+    "age": 14, 
+    "adress": "Rua logo ali, 370",
+    "phone": "(13) 1111 1111",
+    "CPF": "131.111.111-11"
+
+}
+]
