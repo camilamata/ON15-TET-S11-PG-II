@@ -12,6 +12,11 @@ const routes = express.Router()
 //ROTA DO GETALL (RETORNA TODOS OS PACIENTES)
 routes.get("/allPatients", controller.getAll)
 
+//rota que retorna paciente por ID
+routes.get("/filter/:id", controller.getById)
+
+//rota que retorna paciente por nome
+routes.get("/filterName", controller.getByName)
 
 //exportar o routes
 module.exports = routes
