@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "Luiza Maraísa",
+        "socialName": "",
+        "age": "23",
+        "adress": "Rua de Castro, Centro, Belo Horizonte",
+        "phone": "1234-5678",
+        "cpf": "123.456.789-10",
+        "weekDays": "monday, wednesday, friday",
+        "workoutPreference": "strength" 
+    },
+    {
+        "id": "2",
+        "name": "",
+        "socialName": "Lucas Silva",
+        "age": "19",
+        "adress": "Rua Logo Alí, Bairro da Divisa, Belo Horizonte",
+        "phone": "1234-1112",
+        "cpf": "123.456.789-13",
+        "weekDays": "tuesday, thursday, saturday",
+        "workoutPreference": "cardio"
+    },
+    {
+        "id": "3",
+        "name": "Monica Rocha",
+        "socialName": "",
+        "age": "37",
+        "adress": "Rua Vida Toda, Bairro Sétimo Ceu, Belo Horizonte",
+        "phone": "1234-5345",
+        "cpf": "123.456.789-17",
+        "weekDays": "monday, wednesday, friday",
+        "workoutPreference": "strength"
+    },
+    {
+        "id": "4",
+        "name": "Cleusa Santos",
+        "socialName": "",
+        "age": "32",
+        "adress": "Rua Direita, Repouso do Céu, Belo Horizonte",
+        "phone": "1234-5678",
+        "cpf": "123.456.789-29",
+        "weekDays": "wednesday, friday, tuesday",
+        "workoutPreference": "cardio"
+    },
+    {
+        "id": "5",
+        "name": "Flávio Augusto",
+        "socialName": "",
+        "age": "68",
+        "adress": "Rua Bela Vista, Centro, Belo Horizonte",
+        "phone": "1234-52378",
+        "cpf": "123.456.789-34",
+        "weekDays": "monday, tuesday, wednesday, thursday, friday",
+        "workoutPreference": "strength"
+    },
+    {
+        "id": "6",
+        "name": "Bruna Celestino",
+        "socialName": "",
+        "age": "26",
+        "adress": "Rua Paraíso, Teixeiras, Belo Horizonte",
+        "phone": "1234-5678",
+        "cpf": "123.456.789-23",
+        "weekDays": "monday, wednesday, friday",
+        "workoutPreference": "cardio"
+    }
+]

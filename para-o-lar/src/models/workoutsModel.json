@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Air Bike",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "instructions": [
+            "Lie flat on the floor with your lower back pressed to the ground. For this exercise, you will need to put your hands beside your head. Be careful however to not strain with the neck as you perform it. Now lift your shoulders into the crunch position.",
+            "Bring knees up to where they are perpendicular to the floor, with your lower legs parallel to the floor. This will be your starting position.",
+            "Now simultaneously, slowly go through a cycle pedal motion kicking forward with the right leg and bringing in the knee of the left leg. Bring your right elbow close to your left knee by crunching to the side, as you breathe out.",
+            "Go back to the initial position as you breathe in.",
+            "Crunch to the opposite side as you cycle your legs and bring closer your left elbow to your right knee and exhale.",
+            "Continue alternating in this manner until all of the recommended repetitions for each side have been completed."
+        ],
+        "category": "strength"
+    },
+    {
+        "name": "Barbell Curl",
+        "force": "pull",
+        "level": "beginner",
+        "mechanic": "isolation",
+        "equipment": "barbell",
+        "primaryMuscles": [
+            "biceps"
+        ],
+        "secondaryMuscles": [
+            "forearms"
+        ],
+        "instructions": [
+            "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position.",
+            "While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.",
+            "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+            "Slowly begin to bring the bar back to starting position as your breathe in.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength"
+    },
+    {
+        "name": "Bicycling",
+        "force": null,
+        "level": "beginner",
+        "mechanic": null,
+        "equipment": "other",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "To begin, seat yourself on the bike and adjust the seat to your height."
+        ],
+        "category": "cardio"
+    },
+    {
+        "name": "Running, Treadmill",
+        "force": null,
+        "level": "beginner",
+        "mechanic": null,
+        "equipment": "machine",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "calves",
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "To begin, step onto the treadmill and select the desired option from the menu. Most treadmills have a manual setting, or you can select a program to run. Typically, you can enter your age and weight to estimate the amount of calories burned during exercise. Elevation can be adjusted to change the intensity of the workout.",
+            "Treadmills offer convenience, cardiovascular benefits, and usually have less impact than running outside. A 150 lb person will burn over 450 calories running 8 miles per hour for 30 minutes. Maintain proper posture as you run, and only hold onto the handles when necessary, such as when dismounting or checking your heart rate."
+        ],
+        "category": "cardio"
+    },
+    {
+        "name": "Russian Twist",
+        "force": "pull",
+        "level": "intermediate",
+        "mechanic": "compound",
+        "equipment": "body only",
+        "primaryMuscles": [
+            "abdominals"
+        ],
+        "secondaryMuscles": [
+            "lower back"
+        ],
+        "instructions": [
+            "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
+            "Elevate your upper body so that it creates an imaginary V-shape with your thighs. Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.",
+            "Twist your torso to the right side until your arms are parallel with the floor while breathing out.",
+            "Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side.",
+            "Repeat for the recommended amount of repetitions."
+        ],
+        "category": "strength"
+    },
+    {
+        "name": "Single-Leg High Box Squat",
+        "force": "push",
+        "level": "beginner",
+        "mechanic": "compound",
+        "equipment": "other",
+        "primaryMuscles": [
+            "quadriceps"
+        ],
+        "secondaryMuscles": [
+            "glutes",
+            "hamstrings"
+        ],
+        "instructions": [
+            "Position a box in a rack. Secure a band or rope in place above the box.",
+            "Standing in front of it, step onto the box to a full standing position, letting your other leg remain unsupported. Hold onto the band for balance",
+            ". Continue stepping up and down on the same leg before switching to the opposite side."
+        ],
+        "category": "strength"
+    }
+]
